@@ -1,4 +1,4 @@
-# 2023 PainMonit Database (PMDB)
+# PainMonit Database (PMDB)
 
 ## Description
 This repository summarises the code made public available for the PainMonit Database (PMDB) publication.
