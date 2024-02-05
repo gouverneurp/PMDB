@@ -70,7 +70,7 @@ A more detailed description of the database can be found in the paper '**The Pai
 
 - If you want to want to read in the original raw data files, you can do so by using the functions in the [read_data.py](PMPDB/read_data.py) script:
     ```python 
-    python PMPDB/read_data.py
+    python read_data.py
     ```
 
 ## Please cite our paper if you use the PMDB or our code
